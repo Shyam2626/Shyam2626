@@ -60,10 +60,3 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Shyam2626/Shyam2626/output/snake.svg" alt="Snake animation" />
-
-###
